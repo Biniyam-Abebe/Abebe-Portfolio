@@ -90,7 +90,7 @@ Policy brief reviewing disparities in healthcare access and chronic disease outc
 I'm a physician and public health analyst trained in data science, equity evaluation, and policy translation. My work bridges clinical insight with technical rigor to drive change in health systems.
 
 📍 Waltham, MA  
-📧 biniyamabebe@brandeis.edu  
+📧 bamberbir@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/biniyam-abebe)
 
 ---
